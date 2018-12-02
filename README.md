@@ -1,9 +1,4 @@
-<p align="center">
-<img src ="http://images.jupload.fr/1527801683.png" />
-<br/>
-</p>
-
-# Advanced Achievements
+# WA-Achievements
 
 <a href="https://travis-ci.com/PyvesB/AdvancedAchievements/">
 <img src ="https://img.shields.io/travis/com/PyvesB/AdvancedAchievements.svg" />
